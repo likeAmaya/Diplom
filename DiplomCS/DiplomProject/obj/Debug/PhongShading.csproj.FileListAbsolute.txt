@@ -1,0 +1,10 @@
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\bin\Debug\PhongShading.exe.config
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\bin\Debug\PhongShading.exe
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\bin\Debug\PhongShading.pdb
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\bin\Debug\GlmNet.dll
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.csprojResolveAssemblyReference.cache
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.Form1.resources
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.Properties.Resources.resources
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.csproj.GenerateResource.Cache
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.exe
+C:\Users\Амида\Downloads\DiplomCS-master (1)\DiplomCS-master\PhongShading\obj\Debug\PhongShading.pdb
